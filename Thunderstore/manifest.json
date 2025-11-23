@@ -1,0 +1,10 @@
+{
+    "name": "TooltipMod",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/TheConanRider/TooltipMod",
+    "description": "Adds a tooltip to the hotbar!",
+    "dependencies": [
+        "LavaGang-MelonLoader-0.7.1",
+        "NeoMimicry-MimicAPI-0.1.1"
+    ]
+}
