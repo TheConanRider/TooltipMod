@@ -1,0 +1,9 @@
+<Project>
+  <!-- See https://aka.ms/dotnet/msbuild/customize for more details on customizing your build -->
+  <PropertyGroup>
+    <GamePath>E:\SteamLibrary\steamapps\common\MIMESIS</GamePath>
+    <GameAssemblyPath>$(GamePath)\Mimesis_Data\Managed</GameAssemblyPath>
+    <MelonLoaderPath>$(GamePath)\MelonLoader\net6</MelonLoaderPath>
+    <PluginsPath>$(GamePath)\Mods</PluginsPath>
+  </PropertyGroup>
+</Project>
